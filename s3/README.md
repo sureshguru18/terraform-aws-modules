@@ -1,7 +1,6 @@
 
 <!-- markdownlint-disable -->
-# terraform-aws-s3-bucket <a href="https://cpco.io/homepage"><img align="right" src="https://cloudposse.com/logo-300x69.svg" width="150" /></a>
-<a href="https://github.com/cloudposse/terraform-aws-s3-bucket/actions"><img src="https://github.com/cloudposse/terraform-aws-s3-bucket/workflows/test/badge.svg?branch=master" alt="GitHub Action Tests"/></a><a href="https://github.com/cloudposse/terraform-aws-s3-bucket/releases/latest"><img src="https://img.shields.io/github/release/cloudposse/terraform-aws-s3-bucket.svg" alt="Latest Release"/></a><a href="https://slack.cloudposse.com"><img src="https://slack.cloudposse.com/badge.svg" alt="Slack Community"/></a>
+# terraform-aws-s3-bucket 
 <!-- markdownlint-restore -->
 
 This module creates an S3 bucket with support for versioning, lifecycles, object locks, replication, encryption, ACL,
