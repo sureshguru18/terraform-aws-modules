@@ -2,7 +2,7 @@ variable "tags" {
   type        = map(string)
   default     = {}
   description = <<-EOT
-    Additional tag (e.g. `{'BusinessUnit': 'XYZ'}`).
+    Additional tagss (e.g. `{'BusinessUnit': 'XYZ'}`).
     Neither the tag keys nor the tag values will be modified by this module.
     EOT
 }
